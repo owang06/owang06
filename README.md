@@ -1,5 +1,5 @@
 -  Hey, I’m Owen!
--  I’m currently learning full-stack development and embedded systems.
+-  I’m currently learning full-stack and embedded systems development.
 -  How to reach me: e: owenwang260@gmail.com
 -  Pronouns: he/him
 -  Fun fact: I like hockey and snowboarding.
